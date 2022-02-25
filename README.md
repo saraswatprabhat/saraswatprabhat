@@ -1,9 +1,9 @@
 ![Hello(1)](https://user-images.githubusercontent.com/57228450/155687263-33791f19-7613-4b06-8184-2bb72f9ff630.gif)
 
 
-# Welcome Geeks
+# Prabhat Saraswat
 
-- 👋 Hi, I am Prabhat Saraswat
+
 - 👀 I am currently studying in NIT Kurukshetra
 - 📫 You can drop a mail on sarswatprabhat@gmail.com to contact me.
 
