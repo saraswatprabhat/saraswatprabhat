@@ -3,9 +3,10 @@
 
 
 - 👀 I am currently studying in NIT Kurukshetra
-- 📫 You can drop a mail on sarswatprabhat@gmail.com to contact me.
+- 📫 Contact : sarswatprabhat@gmail.com
 
 <!---
 saraswatprabhat/saraswatprabhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
